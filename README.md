@@ -3,3 +3,5 @@ This script matches entity names to Wikidata and retrieves additional data from 
 
 ## Usage
     python entity-matcher.py
+
+_Disclaimer: The Sloane Lab Entity Matcher is a work in progress and may require changes before it is ready to be deployed in different projects. The available features are subject to change. If you have any questions about this repository, please contact sloanelab@ucl.ac.uk_
